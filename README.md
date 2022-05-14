@@ -1,5 +1,5 @@
 # DeezerApiApp
-This application communicates with Deezer's API. The user enters the playlist's ID and the songs are listed using RecyclerView bellow.<br>
+This application communicates with Deezer's API. The user enters the playlists ID and the songs are listed using RecyclerView bellow.<br>
 IDs for testing: <br>
 1578812305<br>
 3773404202<br>
